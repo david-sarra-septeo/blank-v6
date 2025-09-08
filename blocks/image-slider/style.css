@@ -1,0 +1,183 @@
+.slider-container button {
+    outline: none;
+    border: none;
+}
+
+.slider-container .tns-controls button {
+    background: rgba(0, 0, 0, 0.4) center center no-repeat;
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNDc3LjE3NSA0NzcuMTc1IiB4bWw6c3BhY2U9InByZXNlcnZlIj4gPGc+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zNjAuNzMxLDIyOS4wNzVsLTIyNS4xLTIyNS4xYy01LjMtNS4zLTEzLjgtNS4zLTE5LjEsMHMtNS4zLDEzLjgsMCwxOS4xbDIxNS41LDIxNS41bC0yMTUuNSwyMTUuNWMtNS4zLDUuMy01LjMsMTMuOCwwLDE5LjFjMi42LDIuNiw2LjEsNCw5LjUsNGMzLjQsMCw2LjktMS4zLDkuNS00bDIyNS4xLTIyNS4xQzM2NS45MzEsMjQyLjg3NSwzNjUuOTMxLDIzNC4yNzUsMzYwLjczMSwyMjkuMDc1eiI+PC9wYXRoPjwvZz48L3N2Zz4=");
+    width: 5em;
+    height: 5em;
+    font-size: 1em;
+    background-size: 40%;
+    display: block;
+    overflow: hidden;
+    text-indent: -999px;
+}
+
+.slider-container .tns-controls button[data-controls="prev"] {
+    transform: rotate(180deg);
+}
+
+.slider-container .tns-outer {
+    position: relative;
+}
+
+.slider-container .tns-controls {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    top: 40%;
+}
+
+.slider-container .tns-controls>* {
+    z-index: 99;
+}
+
+.slider-container .tns-nav {
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+}
+
+.slider-container .tns-nav button {
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid transparent;
+    border-radius: 50%;
+    padding: 0.6em;
+    margin: 0 0.2em;
+}
+
+.slider-container .tns-nav button.tns-nav-active {
+    background: transparent;
+    border-color: rgba(0, 0, 0, 0.4);
+}
+
+.slider-container .item img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    display: block;
+}
+
+.slider-container .splide__pagination__page {
+    width: 14px;
+    height: 14px;
+}
+
+.slider-container .splide__pagination__page.is-active {
+    background: #000;
+}
+
+.slider-container .splide__pagination {
+    position: relative;
+    bottom: auto;
+}
+
+.slider-container .splide__counter {
+    text-align: center;
+}
+
+@supports (aspect-ratio: auto) {
+
+    .slider-thumbnails-container .splide__slide img,
+    .slider-container .splide__slide img:not(.icon-lodging) {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        aspect-ratio: 3/2;
+    }
+
+    .aspect-ratio-2_3 .gallery-slider .splide__slide img {
+        aspect-ratio: 2/3;
+    }
+
+    .aspect-ratio-1_1 .gallery-slider .splide__slide img {
+        aspect-ratio: 1/1;
+    }
+
+    .aspect-ratio-4_3 .gallery-slider .splide__slide img {
+        aspect-ratio: 4/3;
+    }
+
+    .aspect-ratio-3_4 .gallery-slider .splide__slide img {
+        aspect-ratio: 3/4;
+    }
+
+    .aspect-ratio-16_9 .gallery-slider .splide__slide img {
+        aspect-ratio: 16/9;
+    }
+
+    .aspect-ratio-9_16 .gallery-slider .splide__slide img {
+        aspect-ratio: 9/16;
+    }
+
+    .aspect-ratio-21_9 .gallery-slider .gallery-slider .splide__slide img {
+        aspect-ratio: 21/9;
+    }
+
+    .aspect-ratio-9_21 .gallery-slider .splide__slide img {
+        aspect-ratio: 9/21;
+    }
+
+}
+
+@supports not (aspect-ratio: auto) {
+
+    .slider-container .splide__slide img {
+        max-width: 100%;
+        max-height: 100%;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 100%;
+    }
+
+    .slider-container .splide__slide .image-wrapper {
+        display: block;
+        width: 100%;
+        height: auto;
+        position: relative;
+        overflow: hidden;
+        padding-top: 66.66%;
+    }
+
+    .aspect-ratio-1_1 .gallery-slider .image-wrapper {
+        padding-top: 100%;
+    }
+
+    .aspect-ratio-16_9 .gallery-slider .image-wrapper {
+        padding-top: 56.25%
+    }
+
+    .aspect-ratio-9_16 .gallery-slider .image-wrapper {
+        padding-top: 177%
+    }
+
+    .aspect-ratio-21_9 .gallery-slider .splide__slide .image-wrapper {
+        padding-top: 42.85%
+    }
+
+    .aspect-ratio-9_21 .gallery-slider .splide__slide .image-wrapper {
+        padding-top: 233.33%;
+    }
+
+    .aspect-ratio-4_3 .gallery-slider .splide__slide .image-wrapper {
+        padding-top: 75%;
+    }
+
+    .aspect-ratio-3_4 .gallery-slider .splide__slide .image-wrapper {
+        padding-top: 133.33%;
+    }
+
+}
+
+/* THUMBNAILS */
+/* change thumbnail aspect if needed */
+
+.slider-thumbnails-container .splide__slide img {
+    aspect-ratio: 3/2;
+}

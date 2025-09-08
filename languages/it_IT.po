@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: blank_v4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-26 13:06+0200\n"
+"PO-Revision-Date: 2022-08-26 13:06+0200\n"
+"Last-Translator: Xavier Soler <xaviersoler@gmail.com>\n"
+"Language-Team: Xavier Soler <xavier@mastercamping.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blocks/acf/block-availability-widget.php:147 literales.php:32
+msgid "Nights"
+msgstr "Notti"
+
+#: blocks/acf/block-availability-widget.php:148 literales.php:34
+msgid "People"
+msgstr "Persone"
+
+#: blocks/acf/block-availability-widget.php:149 literales.php:33
+msgid "Not available"
+msgstr "Non disponibile"
+
+#: front-page.php:16 index.php:26 page.php:17 single.php:17
+#: templates/tmpl-mostrar-hijos.php:62
+msgid "No items found."
+msgstr ""
+
+#: functions.php:56
+msgid "Cuadrada"
+msgstr ""
+
+#: functions.php:57
+msgid "Slider"
+msgstr ""
+
+#: functions.php:58
+#, fuzzy
+#| msgid "Banner Link"
+msgid "Banner"
+msgstr "Enlace del Banner"
+
+#: inc/admin_customisation.php:205 inc/admin_customisation.php:228
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/reservas_4.php:103 inc/reservas_offline.php:40
+#: inc/reservas_online.php:59
+msgid "Book"
+msgstr "Prenotare"
+
+#: inc/secciones.php:40
+msgid "Title"
+msgstr ""
+
+#: inc/secciones.php:42
+msgid "Author"
+msgstr ""
+
+#: inc/secciones.php:43
+msgid "Date "
+msgstr ""
+
+#: include-widget.php:3 literales.php:9
+msgid "Bookings"
+msgstr "Prenotazioni"
+
+#: literales.php:3
+msgid "Awards"
+msgstr ""
+
+#: literales.php:4
+msgid "Additional services"
+msgstr ""
+
+#: literales.php:5
+msgid "Additional service fee"
+msgstr ""
+
+#: literales.php:6
+msgid "Adults"
+msgstr "Adulti"
+
+#: literales.php:7
+msgid "Adult"
+msgstr "Adulti"
+
+#: literales.php:8
+#, fuzzy
+msgid "Autocaravan"
+msgstr "Caravan"
+
+#: literales.php:10
+msgid "Book Now"
+msgstr "Prenota ora"
+
+#: literales.php:11
+msgid "Car"
+msgstr "Auto"
+
+#: literales.php:12 literales.php:13
+msgid "Caravan"
+msgstr "Caravan"
+
+#: literales.php:14
+msgid "Charges per day"
+msgstr "Prezzi per giorno"
+
+#: literales.php:15
+msgid "Check-in"
+msgstr "Arrivo"
+
+#: literales.php:16
+msgid "Check-out"
+msgstr "Partenza"
+
+#: literales.php:17
+msgid "Child"
+msgstr "Bambini"
+
+#: literales.php:18
+msgid "Children"
+msgstr "Bambini"
+
+#: literales.php:19
+msgid "Days"
+msgstr ""
+
+#: literales.php:20
+msgid "Dogs"
+msgstr "Cane"
+
+#: literales.php:21
+msgid "Easter"
+msgstr ""
+
+#: literales.php:22
+msgid "Electricity"
+msgstr "Elettricità"
+
+#: literales.php:23
+msgid "Equipment"
+msgstr ""
+
+#: literales.php:24
+msgid "Follow us"
+msgstr ""
+
+#: literales.php:25
+msgid "Fridge"
+msgstr "Frigorifero"
+
+#: literales.php:26
+msgid "High Season"
+msgstr "Alta Stazione"
+
+#: literales.php:27
+msgid "Inventory"
+msgstr ""
+
+#: literales.php:28
+msgid "Low Season"
+msgstr "Bassa Stazione"
+
+#: literales.php:29
+msgid "Medium Season"
+msgstr "Media Stazione"
+
+#: literales.php:30
+msgid "Motorbike"
+msgstr "Moto"
+
+#: literales.php:31
+msgid "Night"
+msgstr "Notte"
+
+#: literales.php:35
+msgid "Pets"
+msgstr "Animali domestici"
+
+#: literales.php:36
+msgid "Pitch"
+msgstr "Piazzola"
+
+#: literales.php:37
+msgid "Please enter the details of your request"
+msgstr "Inserisci i dettagli della tua richiesta"
+
+#: literales.php:38
+msgid "Plot"
+msgstr "Piazzola"
+
+#: literales.php:39
+msgid "Price per night"
+msgstr "Prezzo per notte"
+
+#: literales.php:40
+msgid "Price per week"
+msgstr ""
+
+#: literales.php:41
+msgid "Search"
+msgstr ""
+
+#: literales.php:42
+msgid "see offer"
+msgstr "vedi offerta"
+
+#: literales.php:43
+msgid "Small tent"
+msgstr "Piccola tenda"
+
+#: literales.php:44
+msgid "Tent"
+msgstr "Tenda"
+
+#: literales.php:45
+msgid "Teenager"
+msgstr "Adolescente"
+
+#: literales.php:46
+msgid "The weather at"
+msgstr ""
+
+#: literales.php:47
+msgid "Today"
+msgstr ""
+
+#: literales.php:48
+msgid "Tomorrow"
+msgstr ""
+
+#: literales.php:49
+msgid "Tourist tax not included"
+msgstr "Tourist tax not included"
+
+#: literales.php:50
+msgid "VAT Included"
+msgstr "IVA Inclusa"
+
+#: literales.php:51
+msgid "week"
+msgstr "settimana"
+
+#: literales.php:52
+msgid "years old"
+msgstr "anni"
+
+#: literales.php:53
+msgid "last news"
+msgstr ""
+
+#, php-format
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgid_plural "This theme requires the following plugins: %1$s."
+#~ msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+#~ msgstr[1] "Este tema requiere los siguientes plugins: %1$s."
+
+#, php-format
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+#~ msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#, php-format
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin installed."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins installed."
+#~ msgstr[0] ""
+#~ "Lo sentimos, pero no tienes los permisos correctos para instalar el %s "
+#~ "plugin. Contacta con el administrador de la página para obtener ayuda en "
+#~ "la instalación del plugin."
+#~ msgstr[1] ""
+#~ "Lo sentimos, pero no tienes los permisos correctos para instalar los %s "
+#~ "plugins. Contacta con el administrador de la página para obtener ayuda en "
+#~ "la instalación de los plugins."
+
+#, php-format
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] "El siguiente plugin requerido está actualmente inactivo: %1$s."
+#~ msgstr[1] ""
+#~ "Los siguientes plugins requeridos están actualmente inactivos: %1$s."
+
+#, php-format
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "El siguiente plugin recomendado está inactivo: %1$s."
+#~ msgstr[1] "Los sigueintes plugins recomendados están inactivos: %1$s."
+
+#, php-format
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin activated."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to activate the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins activated."
+#~ msgstr[0] ""
+#~ "Lo sentimos, pero no tienes los permisos correctos para activar el %s "
+#~ "plugin. Contacta con el administrador de la página para obtener ayuda en "
+#~ "la activación del plugin."
+#~ msgstr[1] ""
+#~ "Lo sentimos, pero no tienes los permisos correctos para activar los %s "
+#~ "plugins. Contacta con el administrador de la página para obtener ayuda en "
+#~ "la activación de los plugins."
+
+#, php-format
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgid_plural ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgstr[0] ""
+#~ "El siguiente plugin necesita ser actualizado a su última versión para "
+#~ "asegurar su máxima compatibilidad con este tema: %1$s."
+#~ msgstr[1] ""
+#~ "Los siguientes plugins necesitan ser actualizados a su última versión "
+#~ "para asegurar su máxima compatibilidad con este tema: %1$s."
+
+#, php-format
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin updated."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins updated."
+#~ msgstr[0] ""
+#~ "Lo sentimos, pero no tienes los permisos correctos para actualizar el %s "
+#~ "plugin. Contacta con el administrador de la página para obtener ayuda en "
+#~ "la actualización del plugin."
+#~ msgstr[1] ""
+#~ "Lo sentimos, pero no tienes los permisos correctos para actualizar los %s "
+#~ "plugins. Contacta con el administrador de la página para obtener ayuda en "
+#~ "la actualización de los plugins."
+
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "Empezar a instalar el plugin"
+#~ msgstr[1] "Empezar a instalar los plugins"
+
+#~ msgid "Activate installed plugin"
+#~ msgid_plural "Activate installed plugins"
+#~ msgstr[0] "Activar el plugin instalado"
+#~ msgstr[1] "Activar los plugins instalados"
+
+#, fuzzy, php-format
+#~| msgid "The following plugin was activated successfully:"
+#~| msgid_plural "The following plugins were activated successfully:"
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "El siguiente plugin ha sido activado correctamente:"
+
+#~ msgid "The following plugin was activated successfully:"
+#~ msgid_plural "The following plugins were activated successfully:"
+#~ msgstr[0] "El siguiente plugin ha sido activado correctamente:"
+#~ msgstr[1] "Los siguientes plugins han sido activados correctamente:"
+
+#~ msgid "Last name"
+#~ msgstr "Cognome"
+
+#~ msgid "Phone"
+#~ msgstr "Telefono"
+
+#, fuzzy
+#~ msgid "Comments"
+#~ msgstr "Comentarios"
+
+#, fuzzy
+#~ msgid "Links"
+#~ msgstr "Links"
+
+#~ msgid "and"
+#~ msgstr "y"
+
+#~ msgid "Add new Banner"
+#~ msgstr "Añadir Nuevo Banner"
+
+#~ msgid "Home"
+#~ msgstr "Inicio"
+
+#~ msgid "Select a page"
+#~ msgstr "Selecciona una página"
+
+#~ msgid "Select a post"
+#~ msgstr "Selecciona una entrada"

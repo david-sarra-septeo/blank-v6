@@ -1,0 +1,21 @@
+/* MASTERCAMPING WIDGET */
+
+.hide_lodgment_selector .categorySelector  {
+    display: none;
+}
+
+@media only screen and (min-width: 1000px) {
+
+    .boton-reservar {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 999px) {
+
+    .hide_widget_mobile .widgetBookingContainer {
+        display: none;
+    }
+
+}

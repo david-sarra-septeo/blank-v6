@@ -1,0 +1,18 @@
+.wp-block-auto-tabs,
+.wp-block-auto-tabs .auto-content-wrapper,
+.wp-block-auto-tabs .auto-tabs-wrapper,
+.wp-block-auto-tabs .auto-content-wrapper>.wp-block-group {
+    border: 2px dashed rgb(252, 164, 149);
+    padding: 0.4em;
+    margin-bottom: 0.2em;
+}
+
+.wp-block-auto-tabs .auto-content-wrapper,
+.wp-block-auto-tabs .auto-tabs-wrapper {
+    border-color: rgb(149, 182, 252);
+    margin-top: 0.4em;
+}
+
+.wp-block-auto-tabs .auto-content-wrapper>.wp-block-group {
+    border-color: rgb(249, 195, 108);
+}

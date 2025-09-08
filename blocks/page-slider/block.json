@@ -1,0 +1,38 @@
+{
+    "name": "acf/lodgings-block",
+    "title": "Lodgings block",
+    "description": "Slider or grid showing lodgings",
+    "style": "file:./style.css",
+    "editorStyle": "file:./editor-style.css",
+    "script": "lodgings-block",
+    "category": "blank",
+    "icon": "admin-multisite",
+    "apiVersion": 2,
+    "keywords": ["lodgings, accommodations, hebergements, alojamientos"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "render.php"
+    },
+    "supports": {
+        "align": [
+            "wide",
+            "full"
+        ],
+        "anchor": true,
+        "alignContent": false,
+        "spacing": {
+            "margin": [
+                "top",
+                "bottom"
+            ],
+            "padding": true,
+            "blockGap": false
+        },
+        "__experimentalBorder": {
+            "radius": true,
+            "color": true,
+            "style": true,
+            "width": true
+        }
+    }
+}

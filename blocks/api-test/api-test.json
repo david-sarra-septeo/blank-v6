@@ -1,0 +1,53 @@
+{
+        "OK": true,
+        "datos": [
+            {
+                "id": 415,
+                "nombre": {
+                    "es": "Cycling +16",
+                    "ca": "Ciclisme",
+                    "en": "Cycling",
+                    "nl": "Wielersport",
+                    "de": "Radfahren",
+                    "fr": "Vélo"
+                },
+                "descripcion": {
+                    "es": "¿Quién no quiere participar en está clase dirigida de spinning?",
+                    "ca": "Qui no vol participar en aquesta classe dirigida de spinning?",
+                    "en": "Who doesn't want to participate in this directed spinning class?",
+                    "nl": "Wie wil er niet deelnemen aan deze geregisseerde spinningles?",
+                    "de": "Wer möchte nicht an diesem gezielten Spinning-Kurs teilnehmen?",
+                    "fr": "Qui ne veut pas participer à ce cours de spinning dirigé ?"
+                },
+                "fecha": "15/06/2023",
+                "hora_inicio": "09:00:00",
+                "hora_final": "09:45:00",
+                "visible_app": 1,
+                "tipo": {
+                    "es": "Fitness",
+                    "ca": "Fitness",
+                    "en": "Fitness",
+                    "nl": "Fitness",
+                    "de": "Fitness",
+                    "fr": "Fitness"
+                },
+                "estructura_fisica": {
+                    "es": "GYM",
+                    "ca": "GYM",
+                    "en": "GYM",
+                    "nl": "GYM",
+                    "de": "GYM",
+                    "fr": "GYM"
+                },
+                "descripcion_ubicacion": {
+                    "es": "El gimnasio situado en el \"xiringuito\"",
+                    "ca": "El gimnàs situat al \"xiringuito\"",
+                    "en": "The gym located in the beach bar \"xiringuito\"",
+                    "nl": "De sportschool in de strandbar \"xiringuito\"",
+                    "de": "Das Fitnessstudio befindet sich in der Strandbar \"xiringuito\"",
+                    "fr": "La salle de gym située dans le bar de la plage \"xiringuito\""
+                },
+                "fotografia": "https://uplaan-pro.s3.eu-west-1.amazonaws.com/evento/1728efbda81692282ba642aafd57be3a_647362a2acbc4.jpg"
+            }
+        ]
+    }

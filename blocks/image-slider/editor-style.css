@@ -1,0 +1,42 @@
+.gallery-columns-1 .splide__list>div:nth-child(n+2),
+.gallery-columns-2 .splide__list>div:nth-child(n+3),
+.gallery-columns-3 .splide__list>div:nth-child(n+4),
+.gallery-columns-4 .splide__list>div:nth-child(n+5),
+.gallery-columns-5 .splide__list>div:nth-child(n+6),
+.gallery-columns-6 .splide__list>div:nth-child(n+7),
+.gallery-columns-7 .splide__list>div:nth-child(n+8) {
+    display: none;
+}
+
+div[class *="gallery-columns-"] .splide__list {
+    display: grid;
+    gap: calc(var(--wp--style--block-gap) / 2);
+}
+
+.gallery-columns-2 .splide__list {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.gallery-columns-3 .splide__list {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.gallery-columns-4 .splide__list {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.gallery-columns-5 .splide__list {
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.gallery-columns-6 .splide__list {
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.gallery-columns-7 .splide__list {
+    grid-template-columns: repeat(7, 1fr);
+}
+
+.gallery-columns-8 .splide__list {
+    grid-template-columns: repeat(8, 1fr);
+}

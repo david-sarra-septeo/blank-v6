@@ -1,0 +1,735 @@
+{
+  "OK": true,
+  "datos": [
+    {
+      "nom": "Aigües Braves",
+      "adresa": "Ctra. C-13, 25595 Llavorsí - Pallars Sobirà. Lleida",
+      "coordenades": "42.5040,1.2030",
+      "web": "http://www.campingaiguesbraves.com",
+      "email": "camping@campingaiguesbraves.com",
+      "telefon": "34 973 62 21 53",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/aigues-braves.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Aigüestortes  Resort",
+      "adresa": "Ctra. C-13, Km 159, 25580 Esterri d'Àneu - Pallars Sobirà. Lleida",
+      "coordenades": "42.6144,1.1245",
+      "web": "http://www.aiguestortescampingresort.com",
+      "email": "aiguestortescampingresort@gmail.com",
+      "telefon": "34 973 62 62 63",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/aiguestortes-camping-bar.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Alta Ribagorça",
+      "adresa": "Ctra. N-230, km. 128, 25520 El Pont de Suert - Alta Ribagorça. Lleida",
+      "coordenades": "42.4486,0.7108",
+      "web": "http://www.campingaltaribagorça.es",
+      "email": "ana.uma@hotmail.com",
+      "telefon": "34 973 69 05 21",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/alta-ribagorca.jpg",
+      "allotjaments": [
+        "bungalow",
+        "bungalow-2",
+        "pods"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Bedura Park",
+      "adresa": "Ctra. N-230, km 174,4, 25551 Era Bordeta - Vall d'Aràn. Lleida",
+      "coordenades": "42.7499,0.6981",
+      "web": "http://www.bedurapark.com",
+      "email": "info@bedurapark.com",
+      "telefon": "34 973 64 82 93",
+      "zona": "val-aran",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/bedura-park.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6",
+        "glamping"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Boneta",
+      "adresa": "C. del Riu, 3, 25527 Barruera  - Alta Ribagorça. Lleida",
+      "coordenades": "42.5031,0.7986",
+      "web": "http://www.campingboneta.com",
+      "email": "info@campingboneta.com",
+      "telefon": "34 973 69 40 86",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/boneta.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Bordes de Graus",
+      "adresa": "Carretera Pleta del Prat km. 5, 25577 Tavascan - Pallars Sobirà. Lleida",
+      "coordenades": "42.670496,1.234836",
+      "web": "http://www.bordesdegraus.com",
+      "email": "info@bordesdegraus.com",
+      "telefon": "+34 973 623246 / +34  637984805",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/camping-bordes-de-graus-rec.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow"
+      ],
+      "temporada": "24 de juny al 11 de setembre"
+    },
+    {
+      "nom": "Buchaca",
+      "adresa": "Ctra. N-260, Km 230,8, 25712 Castellbó - Alt Urgell. Lleida",
+      "coordenades": "42.3732,1.3584",
+      "web": "",
+      "email": "",
+      "telefon": "34 973 35 21 55",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/buchaca.jpg",
+      "allotjaments": [
+        "parcela"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Cerdanya EcoResort",
+      "adresa": "Ctra. N-260, Km 200, 25727 Prullans - Cerdanya. Lleida",
+      "coordenades": "42.3716,1.7353",
+      "web": "https://www.cerdanyaecoresort.com/",
+      "email": "info@cerdanyaecoresort.com",
+      "telefon": "34 973 51 02 62",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/cerdanya-ecoresort.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6",
+        "glamping"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Collegats",
+      "adresa": "Ctra. N-260, km 306, 25500 Pobla de Segur - Pallars Jussà. Lleida",
+      "coordenades": "42.2599,0.9862",
+      "web": "https://www.collegats.cat",
+      "email": "camping@collegats.cat",
+      "telefon": "34 973 68 07 14",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/collegats.jpg",
+      "allotjaments": [
+        "parcela"
+      ],
+      "temporada": "01/04/2023 - 01/11/20023"
+    },
+    {
+      "nom": "Del Cardós",
+      "adresa": "Ctra.Llavorsí-Tavascan, Km 8,6, 25570 Vall de Cardós - Pallars Sobirà. Lleida",
+      "coordenades": "42.5593,1.2287",
+      "web": "http://www.campingdelcardos.com/",
+      "email": "campingdelcardos@hotmail.com",
+      "telefon": "34 973 62 31 12",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/del-cardos.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "pods"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "El Cortal del Gral",
+      "adresa": "N-260 Puigcerdà-La Seu km 200., 25726 Lles de Cerdanya - Cerdanya. Lleida",
+      "coordenades": "42.3951,1.6871",
+      "web": "http://www.lles.net/camping",
+      "email": "camping@lles.es",
+      "telefon": "34 659 595 168",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/el-cortal-del-gral.jpg",
+      "allotjaments": [
+        "parcela"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "El Solsonès",
+      "adresa": "LV-4241, 25280 Solsona - Solsonés. Lleida",
+      "coordenades": "42.0127,1.5159",
+      "web": "http://www.campingsolsones.com",
+      "email": "info@campingsolsones.com",
+      "telefon": "34 973 48 28 61",
+      "zona": "pre-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/el-solsones.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6",
+        "glamping",
+        "pods"
+      ],
+      "temporada": "12/01/2024 fins el 08/12/2024."
+    },
+    {
+      "nom": "Era Yerla d’Arties",
+      "adresa": "Ctra. C-28, Vielha a Baquèira, 25599 Arties - Vall d'Aràn. Lleida",
+      "coordenades": "42.6999,0.86901",
+      "web": "http://www.yerla.net/",
+      "email": "info@yerla.net",
+      "telefon": "34 973 64 16 02",
+      "zona": "val-aran",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/era-yerla-darties.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6"
+      ],
+      "temporada": "\u003Cbr\u003E01/12/2022 - 10/04/2023\u003Cbr\u003E15/06/2023 - 30/09/2023 "
+    },
+    {
+      "nom": "Espalias",
+      "adresa": "Ctra. Nacional 230, km. 180, 25550 Bossost - Vall d'Aràn. Lleida",
+      "coordenades": "42.795396,0.698587",
+      "web": "https://www.campingespalias.com/",
+      "email": "info@campingespalias.com",
+      "telefon": "34 973 64 83 10",
+      "zona": "val-aran",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/espalias.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Forcanada",
+      "adresa": "Ctra. N-230, km 174,500, 25551 Era Bordeta - Vall d'Aràn. Lleida",
+      "coordenades": "42.7508,0.6991",
+      "web": "http://campingforcanada.com/",
+      "email": "info@campingforcanada.com",
+      "telefon": "34 973 64 82 94",
+      "zona": "val-aran",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/forcanada.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Frontera Park",
+      "adresa": "Ctra. N-145, Km 8, 25798 Valls de Valira - Alt Urgell. Lleida",
+      "coordenades": "42.4280,1.4631",
+      "web": "https://www.fronterapark.com",
+      "email": "info@fronterapark.com",
+      "telefon": "34 973 35 14 27",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/frontera-park.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Gaset",
+      "adresa": "C-13, Km 92, 25630 Talarn - Pallars Jussà. Lleida",
+      "coordenades": "42.1877,0.9214",
+      "web": "https://www.campinggaset.com/",
+      "email": "info@campinggaset.com",
+      "telefon": "34 973 65 07 37",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/gaset.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Gran Sol",
+      "adresa": "Ctra. N-260, Km 230, 25711 Montferrer i Castellbò - Alt Urgell. Lleida",
+      "coordenades": "42.3479,1.4311",
+      "web": "http://www.campinggransol.cat",
+      "email": "info@campinggransol.cat",
+      "telefon": "34 973 35 13 32",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/gran-sol.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "La Borda del Farreró",
+      "adresa": "Ctra. Nacional,260 (Km284), 25568 Ribera de Montardit - Pallars Sobirà. Lleida",
+      "coordenades": "42.3807,1.1140",
+      "web": "http://www.bordadefarrero.es/",
+      "email": "camping@bordadefarrero.es",
+      "telefon": "34 973 62 02 50",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/la-borda-del-farrero.jpg",
+      "allotjaments": [
+        "parcela"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "La Borda del Pubill",
+      "adresa": "Ctra. de Tavascan, Km 10, 25570 Ribera de Cardós - Pallars Sobirà. Lleida",
+      "coordenades": "42.5690,1.2303",
+      "web": "https://www.campinglabordadelpubill.com/",
+      "email": "info@campinglabordadelpubill.com",
+      "telefon": "34 973 62 30 88; 34 616 82 19 08",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/la-borda-del-pubill.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6",
+        "glamping"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "La Mola",
+      "adresa": "Ctra d' Espot LV-5004, Km. 5, 25597 Espot - Pallars Sobirà. Lleida",
+      "coordenades": "42.5689,1.1111",
+      "web": "http://www.campinglamola.com/",
+      "email": "info@campinglamola.com",
+      "telefon": "34 973 62 40 24",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/la-mola.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "La Noguera",
+      "adresa": "Partida la Solana, s/n, 25613 Sant Llorenç de Montgai - Noguera. Lleida",
+      "coordenades": "41.86075310142971,0.8310865324020522",
+      "web": "http://www.campinglanoguera.com",
+      "email": "info@campinglanoguera.com",
+      "telefon": "34 973 42 03 34",
+      "zona": "pre-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/Camping.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "glamping"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "La Ribera",
+      "adresa": "La Ribera-Pantà, 25290 Sant Ponç - Solsonés. Lleida",
+      "coordenades": "41.9588,1.6043",
+      "web": "https://www.campinglaribera.com",
+      "email": "info@campinglaribera.com",
+      "telefon": "34 973 48 25 52",
+      "zona": "pre-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/la-ribera.jpg",
+      "allotjaments": [
+        "parcela"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Les Contioles",
+      "adresa": "Ctra. Tavascan-Llavorsí, Km 13, 25571 Ainet de Cardós - Pallars Sobirà. Lleida",
+      "coordenades": "42.5884,1.2396",
+      "web": "https://www.campinglescontioles.com/",
+      "email": "valpallars@gmail.com",
+      "telefon": "34 973 62 31 80",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/les-contioles.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Llavorsí",
+      "adresa": "Camí de Riberies, nº1, 25595 Llavorsí - Pallars Sobirà. Lleida",
+      "coordenades": "42.495454,1.214514",
+      "web": "www.campingllavorsi.com",
+      "email": "info@campingllavorsi.com",
+      "telefon": "+34 666 13 88 71 - 609 92 49 27",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/riberies.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-6",
+        "pods"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "L’Orri del Pallars",
+      "adresa": "Ctra. N-260, km 284, 25569 Montardit de Baix - Pallars Sobirà. Lleida",
+      "coordenades": "42.373114,1.110003",
+      "web": "http://www.orridelpallars.cat/",
+      "email": "info@orridelpallars.cat",
+      "telefon": "34 973 62 12 92",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/lorri-del-pallars.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "glamping"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Molí de Fórnols",
+      "adresa": "C. Molí de Fórnols, s/n, 25717 Fórnols - Alt Urgell. Lleida",
+      "coordenades": "42.2424,1.5262",
+      "web": "http://www.molidefornols.com",
+      "email": "molidefornols@hotmail.com",
+      "telefon": "34 973 37 00 21",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/moli-de-fornols.jpg",
+      "allotjaments": [
+        "parcela"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Noguera Pallaresa",
+      "adresa": "Carretera Sort - Rialp (KM 0,3), 25560 Sort - Pallars Sobirà. Lleida",
+      "coordenades": "42.4184,1.1331",
+      "web": "http://noguera-pallaresa.com/",
+      "email": "info@noguera-pallaresa.com",
+      "telefon": "34 973 62 08 20",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/noguera-pallaresa.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Nou Càmping",
+      "adresa": "Ctra. C-13, s/n, km-156, 25597 La Guingueta d'Àneu - Pallars Sobirà. Lleida",
+      "coordenades": "42.592469,1.132077",
+      "web": "https://www.noucamping.com",
+      "email": "noucamping@noucamping.com",
+      "telefon": "34 973 62 62 61",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/Capsalera-1.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Oliana",
+      "adresa": "C-14, 25790 Oliana - Alt Urgell. Lleida",
+      "coordenades": "42.0769884,1.3055192",
+      "web": "www.campingoliana.cat",
+      "email": "info@campingoliana.com",
+      "telefon": "973 47 07 19 / 686 86 96 03",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/piscina-camping-oliana.jpeg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Pica d'Estats",
+      "adresa": "Ctra. Llavorsí-Àreu, km 19, 25574 Alins - Pallars Sobirà. Lleida",
+      "coordenades": "42.5875,1.3241",
+      "web": "http://www.picadestats.com/",
+      "email": "camping@picadestats.cat",
+      "telefon": "34 973 62 43 47",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/pica-destats.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Pont d'Ardaix",
+      "adresa": "Ctra. N-260, km 211, 25723 Pont de Bar - Alt Urgell. Lleida",
+      "coordenades": "42.3719,1.6063",
+      "web": "https://www.pontdardaix.com",
+      "email": "recepcio@pontdardaix.com",
+      "telefon": "34 973 38 40 98",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/pont-dardaix.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Prado Verde",
+      "adresa": "Ctra. N-230, km 174, 25551 Era Bordeta - Vall d'Aràn. Lleida",
+      "coordenades": "42.7488,0.7007",
+      "web": "http://www.campingpradoverde.es",
+      "email": "info@campingpradoverde.es",
+      "telefon": "34 973 64 71 72",
+      "zona": "val-aran",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/prado-verde.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Senterada",
+      "adresa": "Ctra. L-503, Km 5, 25514 Senterada - Pallars Jussà. Lleida",
+      "coordenades": "42.3263,0.9396",
+      "web": "http://www.campingsenterada.cat",
+      "email": "info@campingsenterada.cat",
+      "telefon": "34 973 66 18 18",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/senterada.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Serra",
+      "adresa": "Ctra. Tavascan, s/n, 25576 Lladorre - Pallars Sobirà. Lleida",
+      "coordenades": "42.6115,1.2461",
+      "web": "http://www.campingserra.com",
+      "email": "casaserra@yahoo.es",
+      "telefon": "34 973 62 31 17",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/serra.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Sol i Fred",
+      "adresa": "Ctra. N-260, km 327, 25555 Sarroca de Bellera - Pallars Jussà. Lleida",
+      "coordenades": "42.380729,0.867155",
+      "web": "",
+      "email": "xavisantt@eresmas.com",
+      "telefon": "34 973 66 60 07",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/sol-i-fred.jpg",
+      "allotjaments": [
+        "parcela"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Sol i Neu",
+      "adresa": "Ctra. Sant Maurici, s/n, 25597 Espot - Pallars Sobirà. Lleida",
+      "coordenades": "42.5720,1.0983",
+      "web": "https://www.solineu.com",
+      "email": "camping@solineu.com",
+      "telefon": "34 973 62 40 01",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/sol-i-neu.jpg",
+      "allotjaments": [
+        "parcela"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Solau",
+      "adresa": "Camí de Suà, 5, 25597 Espot - Pallars Sobirá. Lleida",
+      "coordenades": "42.579437,1.08443",
+      "web": "www.campingsolau.com",
+      "email": "solau.camping@gmail.com",
+      "telefon": "666138871",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/10/solau-parceles-2.jpg",
+      "allotjaments": [
+        "parcela"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Taüll",
+      "adresa": "Ctra. de Taüll, km. 3, 25528 Vall de Boí - Alta Ribagorça. Lleida",
+      "coordenades": "42.5180,0.8466",
+      "web": "http://www.campingtaull.com",
+      "email": "info@campingtaull.com",
+      "telefon": "34 973 69 61 74",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/taull.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Terra del Congost",
+      "adresa": "Les Cases del Pacient, s/n, 25635 Castissent  - Pallars Jussá. Lleida",
+      "coordenades": "42.125127,0.730830",
+      "web": "www.terradelcongost.com",
+      "email": "terradelcongost@gmail.com",
+      "telefon": "+34 633 05 19 04",
+      "zona": "pre-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2023/07/terra-del-congost-logo.jpg",
+      "allotjaments": [
+        "parcela",
+        "glamping",
+        "pods"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Vall d’Àger",
+      "adresa": "C. Afores s/n, 25691 Àger - Noguera. Lleida",
+      "coordenades": "42.0045,0.7658",
+      "web": "http://www.campingager.com/",
+      "email": "reserves@campingager.com",
+      "telefon": "34 973 45 52 00",
+      "zona": "pre-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/vall-dager.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Vall d'Aneu",
+      "adresa": "Ctra. La Guingueta km 137, 25597 La Guingueta d'Àneu - Pallars Sobirà. Lleida",
+      "coordenades": "42.5917,1.1319",
+      "web": "",
+      "email": "campingvalldaneu@gmail.com",
+      "telefon": "+34 6591 04575",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/vall-daneu.jpg",
+      "allotjaments": [
+        "parcela"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Vall Ferrera",
+      "adresa": "Ctra. Llavorsí-Àreu, Km 14, 25574 Alins - Pallars Sobirà. Lleida",
+      "coordenades": "42.5509,1.3176",
+      "web": "http://www.campingvallferrera.com/",
+      "email": "resbac@gmail.com",
+      "telefon": "34 973 62 44 08",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/vall-ferrera.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Vall Fosca",
+      "adresa": "Ctra. Senterada-Cabdella, km 13, 25515 Torre de Cabdella - Pallars Jussà. Lleida",
+      "coordenades": "42.4239,0.9820",
+      "web": "https://www.camping-vallfosca.cat",
+      "email": "info@camping-vallfosca.cat",
+      "telefon": "973663080 - 639554892",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/vall-fosca.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Verneda",
+      "adresa": "Ctra. N-230, km 171, 25537 Pont d´Arròs - Vall d'Aràn. Lleida",
+      "coordenades": "42.7365,0.7467",
+      "web": "https://www.campingverneda.com",
+      "email": "info@campingverneda.com",
+      "telefon": "34 973 64 1 0 24",
+      "zona": "val-aran",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/verneda.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "bungalow-6"
+      ],
+      "temporada": ""
+    },
+    {
+      "nom": "Voraparc",
+      "adresa": "Ctra. Sant Maurici, s/n, 25597 Espot - Pallars Sobirà. Lleida",
+      "coordenades": "42.5827,1.0777",
+      "web": "http://www.voraparc.com",
+      "email": "info@voraparc.com",
+      "telefon": "34 973 62 41 08",
+      "zona": "alt-pirineu",
+      "imatge": "https://www.campingsdelleida.com/wp-content/uploads/2022/02/voraparc.jpg",
+      "allotjaments": [
+        "parcela",
+        "bungalow",
+        "bungalow-2",
+        "glamping"
+      ],
+      "temporada": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "acf/auto-tabs",
+    "title": "Autotabs block",
+    "description": "Add tabs dynamically for each block",
+    "style": "file:./style.css",
+    "editorStyle": "file:./editor-style.css",
+    "script": "auto-tabs",
+    "category": "blank",
+    "icon": "index-card",
+    "apiVersion": 2,
+    "keywords": [
+        "pestañas",
+        "tabs"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "render.php"
+    },
+    "supports": {
+        "align": [
+            "wide",
+            "full"
+        ],
+        "anchor": true,
+        "alignContent": false,
+        "spacing": {
+            "margin": [
+                "top",
+                "bottom"
+            ],
+            "padding": true,
+            "blockGap": false,
+            "fullHeight": false
+        },
+        "__experimentalBorder": {
+            "radius": true,
+            "color": true,
+            "style": true,
+            "width": true
+        },
+        "fullHeight": false,
+        "__experimentalLayout": false
+    }
+}

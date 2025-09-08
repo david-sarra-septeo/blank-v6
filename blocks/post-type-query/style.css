@@ -1,0 +1,36 @@
+.wp-block-post-type-query {
+    max-width: var(--wp--style--global--wide-size) !important;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(24rem, 100%), 1fr));
+    gap: 1rem;
+}
+
+.campsite-card {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    max-width: 500px;
+    border-radius: 1em;
+    overflow: hidden;
+}
+
+.campsite-card .wp-post-image,
+.campsite-card p {
+    position: absolute;
+    top: 0;
+    left: 0;
+    aspect-ratio: 4 / 3;
+    width: 100%;
+    height: 100%;
+}
+
+.campsite-card p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    z-index: 1;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.5);
+}

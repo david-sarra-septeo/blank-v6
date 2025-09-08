@@ -1,0 +1,24 @@
+.auto-tabs-wrapper .current-tab {
+    background-color: var(--wp--preset--color--theme-grey);
+    color: #FFF;
+}
+
+.wp-site-blocks .auto-content-wrapper>*:not(.show-content-tab) {
+    display: none;
+}
+
+.wp-block-auto-tabs .auto-content-wrapper>*+*,
+.wp-block-auto-tabs .auto-tabs-wrapper>*+* {
+    margin-block-start: 0 !important;
+    margin-block-end: 0;
+}
+
+.wp-block-auto-tabs .auto-tabs-wrapper {
+    display: flex;
+    gap: var(--wp--style--block-gap);
+    justify-content: center;
+}
+
+.auto-tabs-wrapper a {
+    padding: calc(var(--wp--style--block-gap)/2) var(--wp--style--block-gap);
+}

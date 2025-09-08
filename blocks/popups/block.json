@@ -1,0 +1,33 @@
+{
+    "name": "acf/popups",
+    "title": "Popup block",
+    "description": "Content in a popup",
+    "style": "file:./style.css",
+    "editorStyle": "file:./editor-style.css",
+    "script": "file:./script.js",
+    "category": "blank",
+    "icon": "external",
+    "apiVersion": 2,
+    "keywords": [
+        "popup",
+        "ventana"
+    ],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "render.php"
+    },
+    "supports": {
+        "align": [
+            "wide",
+            "full"
+        ],
+        "anchor": true,
+        "alignContent": false,
+        "spacing": {
+            "blockGap": false,
+            "fullHeight": false
+        },
+        "fullHeight": false,
+        "__experimentalLayout": false
+    }
+}

@@ -1,0 +1,9 @@
+.wp-block-slider {
+    border: 2px dashed rgb(252, 164, 149);
+    padding: 0.4em;
+}
+
+.block-slider-splide .acf-innerblocks-container>* {
+    border: 2px dashed rgb(252, 164, 149);
+    margin-top: 0.4em;
+}

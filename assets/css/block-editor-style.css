@@ -1,0 +1,44 @@
+.wp-block.is-reusable {
+    /* border: 2px dashed rgb(252, 164, 149); */
+    padding: 0.4em;
+}
+
+.wp-block.is-reusable:before {
+    content: 'bloque reutilizable';
+    color: tomato;
+    /* background: #FFF; */
+    padding: 0 1em;
+    border-radius: 12px;
+    border: 1px dashed;
+    font-size: 12px;
+    position: absolute;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -5px);
+    z-index: 1;
+}
+
+.acf-block-preview .editor-info {
+    font-size: 12px;
+    text-align: center;
+}
+
+.acf-block-preview .editor-info span {
+    display: inline-block;
+    background: tomato;
+    background: #FFF;
+    color: tomato;
+    padding: 0 1em;
+    border-radius: 12px;
+    border: 1px dashed;
+}
+
+/* Resized images width a custom ratio style*/
+figure[class*="is-style-custom-aspect"].wp-block-image.is-resized .components-resizable-box__container {
+    height: auto !important;
+}
+
+.is-reusable.wp-block-block {
+    margin-left: var(--wp--style--block-gap);
+    margin-right: var(--wp--style--block-gap);
+}
