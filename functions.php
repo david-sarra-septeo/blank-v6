@@ -192,6 +192,6 @@ add_action( 'wp_head', 'add_to_head' );
 
 include_once dirname(__FILE__).'/blocks/acf-blocks.php';
 //include_once dirname(__FILE__).'/blocks/block-patterns.php';
-include_once dirname(__FILE__).'/assets/cpt/campings-cpt.php';
+//include_once dirname(__FILE__).'/assets/cpt/campings-cpt.php';
 
 ?>
